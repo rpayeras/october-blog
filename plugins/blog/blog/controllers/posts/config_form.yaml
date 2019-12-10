@@ -1,0 +1,10 @@
+name: Posts
+form: $/blog/blog/models/post/fields.yaml
+modelClass: Blog\Blog\Models\Post
+defaultRedirect: blog/blog/posts
+create:
+    redirect: 'blog/blog/posts/update/:id'
+    redirectClose: blog/blog/posts
+update:
+    redirect: blog/blog/posts
+    redirectClose: blog/blog/posts

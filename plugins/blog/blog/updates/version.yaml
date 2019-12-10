@@ -1,0 +1,26 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table blog_blog_posts'
+    - builder_table_create_blog_blog_posts.php
+1.0.3:
+    - 'Updated table blog_blog_posts'
+    - builder_table_update_blog_blog_posts.php
+1.0.4:
+    - 'Created table blog_blog_category'
+    - builder_table_create_blog_blog_category.php
+1.0.5:
+    - 'Updated table blog_blog_posts'
+    - builder_table_update_blog_blog_posts_2.php
+1.0.6:
+    - 'Updated table blog_blog_posts'
+    - builder_table_update_blog_blog_posts_3.php
+1.0.7:
+    - 'Updated table blog_blog_posts'
+    - builder_table_update_blog_blog_posts_4.php
+1.0.8:
+    - 'Updated table blog_blog_posts'
+    - builder_table_update_blog_blog_posts_5.php
+1.0.9:
+    - 'Updated table blog_blog_posts'
+    - builder_table_update_blog_blog_posts_6.php

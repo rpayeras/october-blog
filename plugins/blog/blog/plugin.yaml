@@ -1,0 +1,11 @@
+plugin:
+    name: 'blog.blog::lang.plugin.name'
+    description: 'blog.blog::lang.plugin.description'
+    author: rpayeras
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    blog-item:
+        label: Blog
+        url: blog/blog/posts
+        icon: icon-newspaper-o

@@ -1,0 +1,9 @@
+columns:
+    title:
+        label: Título
+        type: text
+        searchable: true
+        sortable: true
+    last_modified:
+        label: 'Ultima mod'
+        type: date

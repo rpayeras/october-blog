@@ -1,0 +1,42 @@
+fields:
+    title:
+        label: Título
+        span: auto
+        type: text
+    slug:
+        label: Slug
+        span: auto
+        preset:
+            field: title
+            type: slug
+        type: text
+    summary:
+        label: Resumen
+        size: ''
+        span: full
+        type: textarea
+    content:
+        label: Contenido
+        size: ''
+        span: full
+        type: textarea
+    publication_at:
+        label: 'Fecha de publicación'
+        mode: date
+        span: auto
+        type: datepicker
+    publico:
+        label: Publico
+        span: auto
+        type: checkbox
+    last_modified:
+        label: 'Ultima modificacion'
+        mode: date
+        span: auto
+        type: datepicker
+    created_at:
+        label: 'Fecha creación'
+        mode: date
+        span: auto
+        readOnly: 0
+        type: datepicker
