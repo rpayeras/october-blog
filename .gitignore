@@ -1,5 +1,6 @@
 /bootstrap/compiled.php
 /vendor
+/modules
 composer.phar
 .DS_Store
 .idea
@@ -22,3 +23,4 @@ _ide_helper.php
 
 # for netbeans
 nbproject
+/modules/
