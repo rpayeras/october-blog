@@ -1,0 +1,10 @@
+name: Category
+form: $/blog/blog/models/category/fields.yaml
+modelClass: Blog\Blog\Models\Category
+defaultRedirect: blog/blog/category
+create:
+    redirect: 'blog/blog/category/update/:id'
+    redirectClose: blog/blog/category
+update:
+    redirect: blog/blog/category
+    redirectClose: blog/blog/category

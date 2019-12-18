@@ -9,3 +9,12 @@ navigation:
         label: Blog
         url: blog/blog/posts
         icon: icon-newspaper-o
+        sideMenu:
+            side-menu-item:
+                label: Posts
+                url: blog/blog/posts
+                icon: icon-sliders
+            side-menu-item2:
+                label: Categories
+                url: blog/blog/category
+                icon: icon-sitemap
